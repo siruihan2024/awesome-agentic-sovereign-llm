@@ -23,7 +23,8 @@ If you find this repository useful, please consider giving it a star ⭐ and sha
 *   [LLM Agent Security](#9-llm-agent-security)
 *   [Efficient & Local LLM Deployment](#10-efficient--local-llm-deployment)
 *   [Benchmarks & Evaluation](#11-benchmarks--evaluation)
-*   [Blog Posts & Technical Reports](#12-blog-posts--technical-reports)
+*   [Datasets](#12-datasets)
+*   [Blog Posts & Technical Reports](#13-blog-posts--technical-reports)
 *   [Contributing](#contributing)
 *   [License](#license)
 *   [Citation](#citation)
@@ -192,7 +193,11 @@ If you find this repository useful, please consider giving it a star ⭐ and sha
 *   "From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review" (includes ~60 benchmarks), arXiv 2025.04. [Paper](https://arxiv.org/abs/2504.19678)
 *   "A Framework for Responsible AI Systems", arXiv 2025.03. [Paper](https://arxiv.org/abs/2503.04739)
 
-## 12. Blog Posts & Technical Reports
+## 12. Datasets
+
+*   **HK-O1aw** (HKAIR Lab): A legal reasoning dataset and model for Hong Kong's common law system. Built on LLaMA-3.1-8B using the Align-Anything framework, it provides O1-style complex legal reasoning capabilities. All training data, code, and prompts for synthetic data generation are open-sourced. The dataset is sourced from Hong Kong e-Legislation and includes QTA (Question-Thinking-Answer) pairs for legal analysis. [GitHub](https://github.com/HKAIR-Lab/HK-O1aw) [Dataset](https://huggingface.co/datasets/HKAIR-Lab/O1aw-Dataset)
+
+## 13. Blog Posts & Technical Reports
 
 *   NVIDIA: "A Technical Guide to Building Sovereign AI Models" [Link](https://www.nvidia.com/en-us/lp/industries/global-public-sector/sovereign-ai-technical-overview/)
 *   IBM: "What is AI Sovereignty?" [Link](https://www.ibm.com/think/topics/ai-sovereignty)
